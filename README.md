@@ -2,7 +2,7 @@
 - 👀 I’m interested in Javascript 
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me bdoremi848@gmail.com
+- 📫 How to reach me ..
 
 <!---
 ellenaire/ellenaire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
